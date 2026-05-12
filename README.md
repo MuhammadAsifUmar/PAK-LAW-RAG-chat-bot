@@ -31,3 +31,9 @@ The project utilizes an advanced **Retrieval-Augmented Generation (RAG)** pipeli
 - **FAISS (Facebook AI Similarity Search):** Used as the vector database for rapid similarity search of embeddings.
 - **BM25:** A classic information retrieval algorithm used to ensure exact keyword matches aren't missed by semantic search.
 - **SQLite (via custom persistence):** Used to store and manage user chat sessions reliably without needing a heavy database setup.
+- \
+please check the Demo video.
+
+  [Screencast From 2026-05-12 11-50-17.webm](https://github.com/user-attachments/assets/1f048e65-208e-4718-bc8b-9ecddb571e11)
+  
+
