@@ -1,0 +1,77 @@
+﻿# Core LangChain packages (compatible versions)
+langchain==0.3.25
+langchain-core==0.3.83
+langchain-community==0.3.24
+langchain-text-splitters==0.3.8
+langchain-huggingface==0.1.2
+langchain-groq==0.3.2
+
+# Vector Database
+qdrant-client==1.17.0
+
+# LLM & Embeddings
+sentence-transformers==5.2.3
+transformers==5.2.0
+torch==2.10.0
+safetensors==0.7.0
+
+# HuggingFace
+huggingface-hub==1.5.0
+tokenizers==0.22.2
+
+# PDF Processing
+PyMuPDF==1.27.1
+pdfplumber==0.11.9
+pdfminer.six==20251230
+pypdf==6.7.4
+pypdfium2==5.5.0
+
+# Streamlit (for web app)
+streamlit==1.42.2
+altair==5.5.0
+pillow==11.3.0
+
+# API clients
+groq==0.37.1
+httpx==0.28.1
+aiohttp==3.13.3
+
+# Data processing
+numpy==2.4.2
+pandas==2.3.3
+scikit-learn==1.8.0
+scipy==1.17.1
+
+# Utilities
+python-dotenv==1.0.1
+tenacity==9.1.4
+tqdm==4.67.3
+pydantic==2.12.5
+pydantic-settings==2.13.1
+PyYAML==6.0.3
+requests==2.32.5
+
+# Supporting packages
+jsonpatch==1.33
+protobuf==5.29.6
+regex==2026.2.28
+certifi==2026.2.25
+urllib3==2.6.3
+click==8.3.1
+colorama==0.4.6
+typing-extensions==4.15.0
+packaging==24.2
+setuptools==82.0.0
+
+# LangSmith (monitoring)
+langsmith==0.3.45
+orjson==3.11.7
+
+# Qdrant dependencies
+grpcio==1.78.0
+portalocker==3.2.0
+h2==4.3.0
+
+# Additional packages
+faiss-cpu
+rank-bm25
